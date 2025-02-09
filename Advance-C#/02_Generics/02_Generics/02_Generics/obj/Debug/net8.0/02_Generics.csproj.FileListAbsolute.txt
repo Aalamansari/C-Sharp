@@ -1,0 +1,14 @@
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\bin\Debug\net8.0\02_Generics.exe
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\bin\Debug\net8.0\02_Generics.deps.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\bin\Debug\net8.0\02_Generics.runtimeconfig.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\bin\Debug\net8.0\02_Generics.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\bin\Debug\net8.0\02_Generics.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\02_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\02_Generics.AssemblyInfoInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\02_Generics.AssemblyInfo.cs
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\02_Generics.csproj.CoreCompileInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\02_Generics.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\refint\02_Generics.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\02_Generics.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\02_Generics.genruntimeconfig.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\02_Generics\02_Generics\02_Generics\obj\Debug\net8.0\ref\02_Generics.dll

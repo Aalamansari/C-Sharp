@@ -1,0 +1,11 @@
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Repositories\obj\Debug\net8.0\ref\Repositories.dll

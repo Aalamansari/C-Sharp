@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aalam\\source\\repos\\CSharpPractice\\Advance-C#\\SchoolHRAdministration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC24DA5-915A-4D47-B8A2-D9D7BC1E054C}|SchoolHRAdministration.csproj|c:\\users\\aalam\\source\\repos\\csharppractice\\advance-c#\\schoolhradministration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC24DA5-915A-4D47-B8A2-D9D7BC1E054C}|SchoolHRAdministration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B745BC-C780-4AFB-ABC5-28587FD7D9D8}|..\\HRAdminstrationAPI\\HRAdminstrationAPI.csproj|c:\\users\\aalam\\source\\repos\\csharppractice\\advance-c#\\hradminstrationapi\\generic\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B745BC-C780-4AFB-ABC5-28587FD7D9D8}|..\\HRAdminstrationAPI\\HRAdminstrationAPI.csproj|c:\\users\\aalam\\source\\repos\\csharppractice\\advance-c#\\hradminstrationapi\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactoryPattern.cs",
+              "DocumentMoniker": "C:\\Users\\aalam\\source\\repos\\CSharpPractice\\Advance-C#\\HRAdminstrationAPI\\Generic\\FactoryPattern.cs",
+              "RelativeDocumentMoniker": "..\\HRAdminstrationAPI\\Generic\\FactoryPattern.cs",
+              "ToolTip": "C:\\Users\\aalam\\source\\repos\\CSharpPractice\\Advance-C#\\HRAdminstrationAPI\\Generic\\FactoryPattern.cs",
+              "RelativeToolTip": "..\\HRAdminstrationAPI\\Generic\\FactoryPattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:00:08.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\aalam\\source\\repos\\CSharpPractice\\Advance-C#\\HRAdminstrationAPI\\Interface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "..\\HRAdminstrationAPI\\Interface\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\aalam\\source\\repos\\CSharpPractice\\Advance-C#\\HRAdminstrationAPI\\Interface\\IEmployee.cs",
+              "RelativeToolTip": "..\\HRAdminstrationAPI\\Interface\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:04:39.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aalam\\source\\repos\\CSharpPractice\\Advance-C#\\SchoolHRAdministration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aalam\\source\\repos\\CSharpPractice\\Advance-C#\\SchoolHRAdministration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAhwGIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:03:00.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

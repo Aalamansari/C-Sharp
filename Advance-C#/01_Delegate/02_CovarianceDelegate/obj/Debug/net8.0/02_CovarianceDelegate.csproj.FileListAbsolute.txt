@@ -1,0 +1,14 @@
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\bin\Debug\net8.0\02_CovarianceDelegate.exe
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\bin\Debug\net8.0\02_CovarianceDelegate.deps.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\bin\Debug\net8.0\02_CovarianceDelegate.runtimeconfig.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\bin\Debug\net8.0\02_CovarianceDelegate.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\bin\Debug\net8.0\02_CovarianceDelegate.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\02_CovarianceDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\02_CovarianceDelegate.AssemblyInfoInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\02_CovarianceDelegate.AssemblyInfo.cs
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\02_CovarianceDelegate.csproj.CoreCompileInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\02_CovarianceDelegate.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\refint\02_CovarianceDelegate.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\02_CovarianceDelegate.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\02_CovarianceDelegate.genruntimeconfig.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\02_CovarianceDelegate\obj\Debug\net8.0\ref\02_CovarianceDelegate.dll

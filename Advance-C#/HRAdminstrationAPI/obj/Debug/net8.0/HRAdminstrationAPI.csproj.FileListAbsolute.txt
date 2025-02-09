@@ -1,0 +1,11 @@
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\bin\Debug\net8.0\HRAdminstrationAPI.deps.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\bin\Debug\net8.0\HRAdminstrationAPI.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\bin\Debug\net8.0\HRAdminstrationAPI.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.AssemblyInfoInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.AssemblyInfo.cs
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\obj\Debug\net8.0\refint\HRAdminstrationAPI.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\obj\Debug\net8.0\HRAdminstrationAPI.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\HRAdminstrationAPI\obj\Debug\net8.0\ref\HRAdminstrationAPI.dll

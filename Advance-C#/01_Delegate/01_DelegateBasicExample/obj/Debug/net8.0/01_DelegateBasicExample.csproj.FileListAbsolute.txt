@@ -1,0 +1,14 @@
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\bin\Debug\net8.0\01_DelegateBasicExample.exe
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\bin\Debug\net8.0\01_DelegateBasicExample.deps.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\bin\Debug\net8.0\01_DelegateBasicExample.runtimeconfig.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\bin\Debug\net8.0\01_DelegateBasicExample.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\bin\Debug\net8.0\01_DelegateBasicExample.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\01_DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\01_DelegateBasicExample.AssemblyInfoInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\01_DelegateBasicExample.AssemblyInfo.cs
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\01_DelegateBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\01_DelegateBasicExample.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\refint\01_DelegateBasicExample.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\01_DelegateBasicExample.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\01_DelegateBasicExample.genruntimeconfig.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\01_Delegate\01_DelegateBasicExample\obj\Debug\net8.0\ref\01_DelegateBasicExample.dll

@@ -1,0 +1,11 @@
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\bin\Debug\net8.0\Extension.deps.json
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\bin\Debug\net8.0\Extension.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\bin\Debug\net8.0\Extension.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\obj\Debug\net8.0\Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\obj\Debug\net8.0\Extension.AssemblyInfoInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\obj\Debug\net8.0\Extension.AssemblyInfo.cs
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\obj\Debug\net8.0\Extension.csproj.CoreCompileInputs.cache
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\obj\Debug\net8.0\Extension.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\obj\Debug\net8.0\refint\Extension.dll
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\obj\Debug\net8.0\Extension.pdb
+C:\Users\aalam\source\repos\CSharpPractice\Advance-C#\03_LINQ\Extension\obj\Debug\net8.0\ref\Extension.dll
